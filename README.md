@@ -1,2 +1,2 @@
 # glarimy-converter
-A sa,ple for DevOps Workshop
+A sample for DevOps Workshop
